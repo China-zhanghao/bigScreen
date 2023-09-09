@@ -1,0 +1,10 @@
+{
+    "chartAccuracyData":[
+        {"time":"12.18","todayAccuracy":"502.84","yesterdayAccuracy":"281.55","loadAccuracy":"102.84"},
+        {"time":"12.19","todayAccuracy":"205.97","yesterdayAccuracy":"398.35","loadAccuracy":"215.97"},
+        {"time":"12.20","todayAccuracy":"332.79","yesterdayAccuracy":"214.02","loadAccuracy":"312.79"},
+        {"time":"12.21","todayAccuracy":"281.55","yesterdayAccuracy":"179.55","loadAccuracy":"281.55"},
+        {"time":"12.22","todayAccuracy":"398.35","yesterdayAccuracy":"289.57","loadAccuracy":"298.35"},
+        {"time":"12.23","todayAccuracy":"214.02","yesterdayAccuracy":"356.14","loadAccuracy":"114.02"}
+    ]
+}

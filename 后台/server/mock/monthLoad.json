@@ -1,0 +1,11 @@
+{
+    "chartMonthData":[
+        {"month":"1月","maxLoad":"59617","minLoad":"19617"},
+        {"month":"2月","maxLoad":"39617","minLoad":"29617"},
+        {"month":"3月","maxLoad":"51617","minLoad":"31617"},
+        {"month":"4月","maxLoad":"49617","minLoad":"41617"},
+        {"month":"5月","maxLoad":"51617","minLoad":"51117"},
+        {"month":"6月","maxLoad":"29617","minLoad":"23117"},
+        {"month":"7月","maxLoad":"39617","minLoad":"31617"}
+    ]
+}
