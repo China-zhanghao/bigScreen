@@ -63,7 +63,7 @@ export default {
         }
     },
         grid: {
-        top:'12%',
+        top:'14%',
         left: '2%',
         right: '2%',          
         bottom: '1%',
@@ -134,15 +134,15 @@ export default {
 <style lang='less' scoped>
 h2{
   padding-left: .1333rem;
-  border: 1px solid #199AC6;
-  height: .4rem;
+  border-bottom: 1px solid #106581;
+  height: .6rem;
   color: #fff;
   font-weight: normal;
-  line-height: .4rem;
-  font-size: .2133rem;
+  line-height: .6rem;
+  font-size: .3rem;
 }
 .tomorrowEchart{
-  height: 2.6rem;
+  height: 3.1rem;
 }
 
 </style>

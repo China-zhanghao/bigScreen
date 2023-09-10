@@ -49,14 +49,14 @@ export default {
 .top{
     display: flex;
     justify-content: space-between; 
-    height: 1rem;
-    line-height: .4rem;
+    height: 1.2rem;
+    line-height: .5rem;
     border: .0133rem solid #199AC6;
     margin: .25rem;
     .one
     { 
         display: flex;
-        width: 2.4rem;
+        width: 2.8rem;
         background-color: #0E5269;
         justify-content: space-around;
         img{

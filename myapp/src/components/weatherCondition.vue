@@ -106,16 +106,17 @@ export default {
 
 <style lang="less" scoped>
 h2{
-    padding-left: .1333rem;
-    border: 1px solid #199AC6;
-    height: .4rem;
-    color: #fff;
-    font-weight: normal;
-    line-height: .4rem;
-    font-size: .2133rem;
+  padding-left: .1333rem;
+  border-bottom: 1px solid #106581;
+  height: .6rem;
+  color: #fff;
+  font-weight: normal;
+  line-height: .6rem;
+  font-size: .3rem;
 }
 
   .top{
+    margin-bottom:0.2rem;
     display: flex;
     height: 1.3rem;
     .left{

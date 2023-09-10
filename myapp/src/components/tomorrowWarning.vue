@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="title"><span class="todayWarning">明日预警</span><span class="primaryWarning">初级预警</span></div>
+    <div class="title"><span class="tomorrow">明日预警</span><span class="primaryWarning">初级预警</span></div>
     <div class="container" v-for="item in tomorrowWarning.data" :key="item.name">
         <div class="one">
           <div>{{ item.name }}</div>
@@ -52,13 +52,16 @@ export default {
 <style lang="less" scoped>
 .title{
   padding-left: .1333rem;
-  border-bottom: 1px solid #199AC6;
-  height: .4267rem;
-  line-height: .3733rem;
-  .todayWarning{
-    font-size: .2133rem;
-    color:#EDF2F4;
+  border-bottom: 1px solid #178DB7;
+  height: .6rem;
+  line-height: .6rem;
+
+  .tomorrow{
+    font-weight: normal;
+    font-size: .3rem;
+     color: #fff;
   }
+
   .primaryWarning{
     margin-left: 4rem;
     background-color: #157A80;
@@ -75,7 +78,7 @@ export default {
     align-items: center;
     padding:0 .1333rem;
     width: 100%;
-    height: .83rem;
+    height: 1rem;
     div{
       height: .4rem;
       color: #fff;
@@ -91,7 +94,7 @@ export default {
     align-items: center;
     padding:0 .1333rem;
     width: 100%;
-    height: .8rem;
+    height: 1rem;
     div{
       text-align: center;
       height: .6667rem;
@@ -110,7 +113,7 @@ export default {
     align-items: center;
     padding:0 .1333rem;
     width: 100%;
-    height: .8rem;
+    height: 1rem;
     div{
       text-align: center;
       height: .6667rem;

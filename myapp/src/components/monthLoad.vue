@@ -186,16 +186,16 @@ export default {
 
 <style lang='less' scoped>
 h2{
-  padding-left: 10px;
+  padding-left: .1333rem;
   border-bottom: 1px solid #106581;
-  height: 30px;
+  height: .6rem;
   color: #fff;
   font-weight: normal;
-  line-height: 30px;
-  font-size: 16px;
+  line-height: .6rem;
+  font-size: .3rem;
 }
 .monthEchart{
-  height: 2.6rem;
+  height: 2.9rem;
 }
 
 </style>

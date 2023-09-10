@@ -61,7 +61,7 @@
 
 <style lang="less" scoped>
 .map{
-    height: 5.5rem;
+    height: 7.1rem;
     border: 1px solid #106581;
     margin: .25rem;
 }

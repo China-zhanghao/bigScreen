@@ -61,13 +61,19 @@ export default {
 
 <style lang="less" scoped>
 .title{
+  // padding-left: .1333rem;
+  // border-bottom: 1px solid #106581;
+  // color: #fff;
+  // font-weight: normal;
+  // line-height: .6rem;
   padding-left: .1333rem;
   border-bottom: 1px solid #178DB7;
-  height: .4267rem;
-  line-height: .3733rem;
+  height: .6rem;
+  line-height: .6rem;
   .todayWarning{
-    font-size: .2133rem;
-    color:#EDF2F4;
+    font-weight: normal;
+    font-size: .3rem;
+     color: #fff;
   }
   .primaryWarning{
     padding:.0267rem .04rem;
@@ -86,7 +92,7 @@ export default {
     align-items: center;
     padding:0 .2667rem;
     width: 100%;
-    height: .83rem;
+    height: 1rem;
     div{
       height: .4rem;
       color: #fff;
@@ -102,7 +108,7 @@ export default {
     align-items: center;
     padding:0 .1333rem;
     width: 100%;
-    height: .8rem;
+    height: 1rem;
     div{
       text-align: center;
       height: .6667rem;
@@ -121,7 +127,7 @@ export default {
     align-items: center;
     padding:0 .1333rem;
     width: 100%;
-    height: .8rem;
+    height: 1rem;
     div{
       text-align: center;
       height: .6667rem;

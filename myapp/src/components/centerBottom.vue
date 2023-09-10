@@ -68,7 +68,7 @@ export default {
         },
 
         grid: {
-          top: '20%',
+          top: '22%',
           left: '2%',
           right: '4%',
           bottom: '2%',
@@ -195,15 +195,15 @@ export default {
     margin: .25rem;
 }
 h2{
-  border: 1px solid #106581;
   padding-left: .1333rem;
-  height: .4rem;
+  border-bottom: 1px solid #106581;
+  height: .6rem;
   color: #fff;
   font-weight: normal;
-  line-height: .4rem;
-  font-size: .2133rem;
+  line-height: .6rem;
+  font-size: .3rem;
 }
 .realTimeEchart{
-  height: 2.2rem;
+  height: 1.9rem;
 }
 </style>
