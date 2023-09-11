@@ -143,7 +143,7 @@ export default {
     height: 1rem;
     width: 100%;
     .realtime{
-      margin-left:40px;
+      margin-left:.5333rem;
       color:#1EBDF3;
       flex: 3;
       display: flex;

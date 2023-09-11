@@ -19,7 +19,8 @@ export default{
 body{
   // 添加背景图
   background: url("./assets/新背景.jpg") top center no-repeat;
-  background-size: cover;
+  background-attachment: fixed;
+  background-size:cover;
 }
 *{
   margin: 0;

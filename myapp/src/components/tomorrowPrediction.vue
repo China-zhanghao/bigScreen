@@ -142,6 +142,7 @@ h2{
   font-size: .3rem;
 }
 .tomorrowEchart{
+  width: 100%;
   height: 3.1rem;
 }
 

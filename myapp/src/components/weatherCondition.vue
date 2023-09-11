@@ -130,7 +130,7 @@ h2{
       .left_tem{
         margin-top: 0.22rem;
         h1{
-        font-size: 18px;
+        font-size: .24rem;
         font-weight: normal;
         color:#57D8DE;
         }
@@ -144,12 +144,12 @@ h2{
       flex-wrap: wrap;
       flex: 1;
       .right-detail{
-        padding:2px 0 ;
+        padding:.0267rem 0 ;
         text-align: center;
         width: .97rem;
         height: .6667rem;
         h4{
-          font-size: 3px;
+          font-size: .04rem;
           color:#1FD7E5;
           font-weight: normal;
         }
@@ -170,7 +170,7 @@ h2{
       .b_left_tem{
         margin-top: 0.22rem;
         h1{
-        font-size: 18px;
+        font-size: .24rem;
         font-weight: normal;
         color:#57D8DE;
         }
@@ -184,12 +184,12 @@ h2{
       flex-wrap: wrap;
       flex: 1;
       .b_right-detail{
-        padding:2px 0 ;
+        padding:.0267rem 0 ;
         text-align: center;
         width: .97rem;
         height: .6667rem;
         h4{
-          font-size: 3px;
+          font-size: .04rem;
           color:#1FD7E5;
           font-weight: normal;
         }
